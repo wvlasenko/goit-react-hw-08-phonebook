@@ -1,0 +1,14 @@
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.flex > * {
+  margin: 0 4px;
+  color: #fff;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+}
